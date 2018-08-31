@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\bin\Debug\Componentes.dll
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\bin\Debug\Componentes.pdb
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\obj\Debug\Componentes.dll
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\Componentes\obj\Debug\Componentes.pdb

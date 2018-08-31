@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\bin\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.exe.config
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\bin\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.exe
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\bin\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.pdb
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\obj\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\obj\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\obj\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.exe
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\obj\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.pdb
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\bin\Debug\Componentes.dll
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\bin\Debug\Componentes.pdb
+C:\Users\nicol\source\repos\aula-15-orientacao-a-objetos-protegido-e-interno\aula-15-orientacao-a-objetos-protegido-e-interno\obj\Debug\aula-15-orientacao-a-objetos-protegido-e-interno.csproj.CopyComplete
